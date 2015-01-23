@@ -1,7 +1,9 @@
-# Details of Repository owner
+# Details
 
-![Bilby Stampede](http://example.com/images/logo.png)
+![Kiran Tej Badana](http://cs2.mwsu.edu/~kbadana/Kiran.JPG)
 
-First Name: Kiran Tej
-Last Name: Badana
-Email: Kiran Tej Badana
+First Name: Kiran Tej <br>
+
+Last Name: Badana <br>
+
+Email: Kiran Tej Badana<br>
