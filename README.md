@@ -6,4 +6,4 @@ First Name: Kiran Tej <br>
 
 Last Name: Badana <br>
 
-Email: Kiran Tej Badana<br>
+Email: kirantej308@gmail.com <br>
