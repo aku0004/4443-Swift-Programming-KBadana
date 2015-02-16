@@ -91,6 +91,7 @@ class ViewController: UIViewController {
                     
                     // for accessing multiple values
                     for (key,val) in json{
+                    // Exracting the colour code only for Khaki
                         if(key=="khaki")
                         {
                         println(json["\(key)"])
